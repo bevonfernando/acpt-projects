@@ -34,6 +34,8 @@ public class CricketScore {
 
         System.out.println("Average score is : " + (averageRuns/11));
 
+        System.out.println("Hiiii");
+
 
     }
 }

@@ -5,7 +5,7 @@ public class Lagna {
         Scanner scan = new Scanner(System.in);
 
         String dbEmail = "mrmusha2021@gmail.com";
-        int dbPassword = 123456789;
+        int dbPassword = 1234567890;
 
         System.out.print("enter your email id -");
         String userEmail = scan.next();

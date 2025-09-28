@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 import  java.util.Scanner;
 public class Telcom {
     public static void main(String[] args) {
@@ -13,6 +15,7 @@ public class Telcom {
         int dialog = 0;
         int airtel = 0;
         int mobitel = 0;
+        System.out.println("Heyyyy telcom");
 
         for (int i = 0; i < 4; i++) {
             System.out.println("Enter the password");
@@ -74,5 +77,8 @@ public class Telcom {
         }
 
     }
+
+
+
 }
 
